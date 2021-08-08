@@ -1,5 +1,5 @@
 # snapCleaner
-a shell script that clean expire packages in linux
+A shell script that clean expire packages in linux
 all thing tath you shuld do is to git clone this repo and add 751 chmod to the shellscript
 then run it whit the root user 
 thats it :)
